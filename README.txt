@@ -4,7 +4,6 @@ PS4 Payloads FW9.00 Collection
 
 Included######################
 ps4-app-dumper.bin
-ps4-app-dumper_leeful.bin
 ps4-app2usb.bin
 ps4-backup.bin
 ps4-debug-1.1.16.bin
